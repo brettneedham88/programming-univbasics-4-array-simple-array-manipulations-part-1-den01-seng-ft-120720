@@ -20,5 +20,5 @@ def pop_with_args(dog_breeds)
   @dog_breeds.pop(2)
 end  
 
-def
+def 
   @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
